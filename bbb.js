@@ -3,5 +3,9 @@ function test(){
 }
 
 function test111(){
-    console.log("test");
+    console.log("test111");
+}
+
+function test222(){
+    console.log("test222");
 }
